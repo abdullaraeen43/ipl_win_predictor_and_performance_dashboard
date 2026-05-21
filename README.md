@@ -47,9 +47,9 @@ Select a batter and a bowler from the dropdown lists.
 
 Click Compare Players to see:
 
-    Batsman run distribution against the selected bowler (pie chart).
+    -Batsman run distribution against the selected bowler (pie chart).
     
-    Total runs, Balls Faced, etc.
+    -Total runs, Balls Faced, etc.
 
 Charts and results are interactive and update automatically based on selections.
 
